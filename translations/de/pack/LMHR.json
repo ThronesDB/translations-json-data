@@ -1,0 +1,143 @@
+[
+    {
+        "code": "13101",
+        "flavor": "",
+        "name": "Arya Stark",
+        "text": "Schatten (4). Heimlich.\n<b>Reaktion:</b> Nachdem Arya Stark ins Spiel gekommen ist, lege 1 Gebetsmarker auf bis zu 5 verschiedene Charaktere, die du nicht kontrollierst. Falls Arya Stark das Spiel verlässt, lege jene Marker ab.\n<b>Reaktion:</b> Nachdem ein Charakter mit einem Gebetsmarker getötet worden ist, richte Arya Stark auf und ziehe 1 Karte.",
+        "traits": "Lady."
+    },
+    {
+        "code": "13102",
+        "flavor": "",
+        "name": "Blut der Ersten Menschen",
+        "text": "Nur Charaktere, die du kontrollierst.\nDer verstärkte Charakter erhält das Merkmal <i>Alte Götter</i>.\n<b>Aktion:</b> Beuge während einer Herausforderung, in der du einen teilnehmenden [stark]-Charakter kontrollierst, den verstärkten Charakter, um ihn auf deiner Seite an der Herausforderung teilnehmen zu lassen.",
+        "traits": "Erbe. Alte Götter."
+    },
+    {
+        "code": "13103",
+        "flavor": "",
+        "name": "Das Gefolge der Königin",
+        "text": "Schatten (4).\n<b>Aktion:</b> Bringe Das Gefolge der Königin aus den Schatten ins Spiel. Dann zieht jeder Gegner 2 Karten.",
+        "traits": "Verbündeter. Gefährte."
+    },
+    {
+        "code": "13104",
+        "flavor": "",
+        "name": "Jägerin",
+        "text": "Solange Jägerin aufrecht steht, bekommt jeder [tyrell]-Charakter mit aufgedruckten Kosten von 3 oder weniger, den du kontrollierst, +1 Stärke.\n<b>Aktion:</b> Beuge Jägerin, um einen [tyrell]-Charakter mit aufgedruckten Kosten von 3 oder weniger zu wählen. Bis zum Ende der Phase bekommt der gewählte Charakter +3 Stärke.",
+        "traits": "Kriegsschiff."
+    },
+    {
+        "code": "13105",
+        "flavor": "",
+        "name": "Rekrut aus dem Kerker",
+        "text": "Schatten (2).\n<b>Aktion:</b> Während einer Herausforderung, in der du der verteidigende Spieler bist, beuge Rekrut aus dem Kerker, um ihn auf deiner Seite an der Herausforderung teilnehmen zu lassen. Falls du die Herausforderung verlierst, schicke Rekrut aus dem Kerker in die Schatten zurück.",
+        "traits": "Verbündeter. Rekrut."
+    },
+    {
+        "code": "13106",
+        "flavor": "Berg Raureif und Reiftor waren noch nicht wieder besetzt, daher hatte Jon die beiden Männer um ihre Meinung gebeten, welchen der verbliebenen Wildlingshäuptlinge und Kriegsherren er wohl dort hinschicken sollte.",
+        "name": "Reiftor",
+        "text": "<b>Unterbrechung:</b> Sobald ein anderer Ort, den du kontrollierst, aus dem Spiel abgelegt werden würde, beuge Reiftor, um ihn zu retten.",
+        "traits": "Der Norden."
+    },
+    {
+        "code": "13107",
+        "flavor": "\"Ich schwöre dir. Nie war ich so lebendig wie damals, als ich den Thron erstritten habe, und nie so tot wie jetzt, da ich darauf sitze.\"",
+        "name": "Robert Baratheon",
+        "text": "Ruhmreich.\n<b>Reaktion:</b> Nachdem Robert Baratheon Macht erhalten hat, erhältst du 1 Macht für deine Fraktion. (Nur zwei Mal pro Runde.)",
+        "traits": "Lord. König."
+    },
+    {
+        "code": "13108",
+        "flavor": "",
+        "name": "Lang soll er herrschen",
+        "text": " Nur <i>König</i>-Charaktere.\nDer verstärkte Charakter kann nicht getötet werden.\n<b>Erzwungene Reaktion:</b> Nachdem du als der verteidigende Spieler eine [power]-Herausforderung verloren hast, opfere Lang soll er herrschen.",
+        "traits": "Erbe."
+    },
+    {
+        "code": "13109",
+        "flavor": "Auran Wasser, der schneidige junge Bastard von Driftmark, würde ihr Großadmiral sein.",
+        "name": "Der Bastard von Driftmark",
+        "text": "<b>Reaktion:</b> Nachdem du eine [intrigue]-Herausforderung gewonnen hast, an welcher Der Bastard von Driftmark teilnimmt, wähle einen Ort und richte ihn auf.",
+        "traits": "Bastard. Kleiner Rat."
+    },
+    {
+        "code": "13110",
+        "flavor": "",
+        "name": "Gildenhalle der Alchimisten",
+        "text": "Schatten (2).\n<b>Unterbrechung:</b> Sobald die Effekte einer ausgelösten Charakterfähigkeit initiiert werden würden, beuge Gildenhalle der Alchimisten und schicke sie in die Schatten zurück, um jene Effekte aufzuheben, falls jener Charakter nicht das Schlüsselwort Schatten hat. (Maximal 1 pro Phase.)",
+        "traits": "Königsmund."
+    },
+    {
+        "code": "13111",
+        "flavor": "",
+        "name": "Plünderer auf dem Schwarzwasser",
+        "text": "Schatten (3).\n<b>Reaktion:</b> Nachdem Plünderer auf dem Schwarzwasser aus den Schatten getreten sind, wähle einen Ort mit aufgedruckten Kosten von 2 oder weniger im Ablagestapel eines Gegners. Bringe ihn unter deiner Kontrolle ins Spiel.",
+        "traits": "Söldner. Plünderer."
+    },
+    {
+        "code": "13112",
+        "flavor": "",
+        "name": "Platz der Fischhändler",
+        "text": "<b>Aufmarschaktion:</b> Falls 10 oder mehr Karten im Ablagestapel eines Gegners sind, beuge Platz der Fischhändler, um 1 Karte zu ziehen und 1 Gold zu erhalten.",
+        "traits": "Königsmund."
+    },
+    {
+        "code": "13113",
+        "flavor": "",
+        "name": "Ser Jorah Mormont",
+        "text": "Schatten (4). Keine Verstärkungen außer <i>Waffe</i>.\n<b>Unterbrechung:</b> Sobald Ser Jorah Mormont von deiner Hand abgelegt wird, bringe ihn in die Schatten, anstatt ihn auf deinen Ablagestapel zu legen.",
+        "traits": "Gefährte. Ritter."
+    },
+    {
+        "code": "13114",
+        "flavor": "",
+        "name": "Söldnervertrag",
+        "text": "Der verstärkte Charakter erhält das Merkmal <i>Söldner</i>.\n<b>Reaktion:</b> Nachdem du eine Herausforderung gewonnen hast, in welcher der verstärkte Charakter angreift, bezahle 1 Gold und beuge Söldnervertrag, um den verstärkten Charakter aufzurichten.",
+        "traits": "Gegenstand."
+    },
+    {
+        "code": "13115",
+        "flavor": "",
+        "name": "Freunde am Hofe",
+        "text": "Schatten (2).\n<b>Reaktion:</b> Nachdem Freunde am Hofe aus den Schatten getreten sind, sieh dir bis zu 3 Karten in den Schatten an. Dann darfst du 2 Gold bezahlen, um 1 jener Karten zu wählen und sie auf die Hand ihres Besitzers zurückzuschicken.",
+        "traits": "Spion."
+    },
+    {
+        "code": "13116",
+        "flavor": "",
+        "name": "Vergifteter Dolch",
+        "text": "Nur Charaktere, die du kontrollierst. Schatten (2).\nDer verstärkte Charakter bekommt +2 Stärke.\n<b>Reaktion:</b> Nachdem du eine [intrigue]-Herausforderung gewonnen hast, an welcher der verstärkte Charakter teilnimmt, opfere Vergifteter Dolch, um den verlierenden Gegner einen teilnehmenden Charakter, den er kontrolliert, wählen und töten zu lassen.",
+        "traits": "Waffe."
+    },
+    {
+        "code": "13117",
+        "flavor": "",
+        "name": "Der Eiserne Thron",
+        "text": "<b>Reaktion:</b> Nachdem eine Phase begonnen hat, beuge Der Eiserne Thron, um eine Karte zu benennen. Bis zum Ende der Phase kann kein Spieler die benannte Karte aufmarschieren lassen, spielen und ins Spiel bringen.",
+        "traits": "Umkämpft. Königsmund."
+    },
+    {
+        "code": "13118",
+        "designer": "Kartenentwurf von Corey Faherty, Weltmeister im Buhurt 2015.",
+        "flavor": "",
+        "name": "Valyrischer Stahl",
+        "text": "Dein Deck muss mindestens 75 Karten enthalten. Dein Deck kann nicht mehr als 1 Kopie jeder Verstärkung <i>(nach Kartentitel)</i> enthalten.\n<b>Aktion:</b> Beuge deine Fraktionskarte und bezahle X Gold, um eine Verstärkung mit aufgedruckten Kosten von X von deiner Hand ins Spiel zu bringen.\n<b>Reaktion:</b> Nachdem eine Verstärkung unter deiner Kontrolle ins Spiel gekommen ist, ziehe entweder eine Karte oder du erhältst 1 Gold. (Nur drei Mal pro Runde.)",
+        "traits": ""
+    },
+    {
+        "code": "13119",
+        "flavor": "",
+        "name": "Die Stadt des Wohlstands",
+        "text": "Erhöhe den Gold-, Initiative- und Reservewert auf dieser Strategiekarte um 1 jede <i>Stadt</i>-Strategiekarte in deinem Archiv.",
+        "traits": "Stadt. Königreich."
+    },
+    {
+        "code": "13120",
+        "flavor": "",
+        "name": "Falsches Spiel aufdecken",
+        "text": "<b>Sobald aufgedeckt:</b> Lege jede Karte in den Schatten ab.",
+        "traits": "Komplott."
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "code": "bng",
+        "name": "Zyklus Blut und Gold"
+    },
+    {
+        "code": "core",
+        "name": "Grundspiel"
+    },
+    {
+        "code": "dos",
+        "name": "Tanz der Schatten-Zyklus"
+    },
+    {
+        "code": "dragons",
+        "name": "Drachen aus dem Osten"
+    },
+    {
+        "code": "foc",
+        "name": "Krähenschwarm-Zyklus"
+    },
+    {
+        "code": "isles",
+        "name": "Könige der Inseln"
+    },
+    {
+        "code": "landing",
+        "name": "Königsmund-Zyklus"
+    },
+    {
+        "code": "lions",
+        "name": "Löwen von Casterlystein"
+    },
+    {
+        "code": "premium",
+        "name": "Premium-Erweiterungen"
+    },
+    {
+        "code": "sands",
+        "name": "Dornischer Sand"
+    },
+    {
+        "code": "storm",
+        "name": "Zorn des Sturms"
+    },
+    {
+        "code": "thorns",
+        "name": "Haus der Dornen"
+    },
+    {
+        "code": "variants",
+        "name": "Varianten"
+    },
+    {
+        "code": "war",
+        "name": "Zyklus Krieg der Fünf Könige"
+    },
+    {
+        "code": "watchers",
+        "name": "Wächter auf der Mauer"
+    },
+    {
+        "code": "westeros",
+        "name": "Westeros-Zyklus"
+    },
+    {
+        "code": "wolves",
+        "name": "Wölfe des Nordens"
+    }
+]
